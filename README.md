@@ -12,7 +12,7 @@
  
  <!--🔭 I’m currently working on **a marketplace**-->
  
- 🌱 I’m currently learning **Web Development, SpringBoot, AWS**
+ <!--🌱 I’m currently learning **Web Development, SpringBoot, AWS**-->
 
 💬 Ask me about **DSA, Java, SQL... or anything [here](https://github.com/LOGITH2003/Leetcode)**
 
