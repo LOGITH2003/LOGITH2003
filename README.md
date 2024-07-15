@@ -61,8 +61,8 @@
    
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=LOGITH2003&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <br>
-   <img width=390 alt="snake eating my contributions" src="https://leetcard.jacoblin.cool/logith_04?theme=dark&font=Noto%20Sans%20Deseret&ext=heatmap" />
+  <!--br>
+   <img width=390 alt="snake eating my contributions" src="https://leetcard.jacoblin.cool/logith_04?theme=dark&font=Noto%20Sans%20Deseret&ext=heatmap" /-->
 </div>
 
 <br/><br/>
