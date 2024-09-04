@@ -14,7 +14,7 @@
  
  <!--🌱 I’m currently learning **Web Development, SpringBoot, AWS**-->
 
-💬 Ask me about **DSA, Java, SQL... or anything [here](https://github.com/LOGITH2003/Leetcode)**
+💬 Ask me about **DSA, Java, Laravel, SQL, React Js... or anything [here](https://github.com/LOGITH2003/Leetcode)**
 
 <!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**-->
 
