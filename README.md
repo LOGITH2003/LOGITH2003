@@ -14,7 +14,7 @@
  
  <!--🌱 I’m currently learning **Web Development, SpringBoot, AWS**-->
 
-💬 Ask me about **DSA, Java, Laravel, SQL, React Js... or anything [here](https://github.com/LOGITH2003/Leetcode)**
+💬 Ask me about **SpringBoot, Java, Kafka, SQL, Nest Js, React, AWS and Ubuntu**
 
 <!--⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**-->
 
@@ -37,15 +37,14 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,php,laravel" />
-    <img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,java,mysql,visualstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,typescript,spring,java,mysql,docker,kafka,ubuntu,cloudflare" />
 </div>
 
 <br/>
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LOGITH2003/LOGITH2003/output/github-contribution-grid-snake.svg" />
   
