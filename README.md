@@ -37,13 +37,13 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,typescript,spring,java,mysql,docker,kafka,ubuntu,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=react,nestjs,typescript,spring,kafka,java,mysql,docker,ubuntu,cloudflare" />
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <h2>My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LOGITH2003/LOGITH2003/output/github-contribution-grid-snake.svg" />
@@ -51,7 +51,7 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
+<hr/> -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
